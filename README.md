@@ -5,3 +5,8 @@ Some additional text!!!
 Some more text.
 
 We are on the develop branch.
+
+--------------------------
+
+This is some new text.
+
